@@ -157,7 +157,7 @@ Real-time Email Classification
 
 Ashish Kumar
 
-📧 Email: hardeshgangwar6398@gmailcom
+📧 Email: hardeshgangwar6398@gmail.com
 💼 LinkedIn: www.linkedin.com/in/ashish-kumar-755a05301
 🐙 GitHub: https://github.com/ashishkumar-0077 
 
